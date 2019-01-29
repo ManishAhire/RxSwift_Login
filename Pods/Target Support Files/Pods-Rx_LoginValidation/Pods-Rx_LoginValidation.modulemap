@@ -1,0 +1,6 @@
+framework module Pods_Rx_LoginValidation {
+  umbrella header "Pods-Rx_LoginValidation-umbrella.h"
+
+  export *
+  module * { export * }
+}
