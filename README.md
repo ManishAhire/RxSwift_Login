@@ -10,6 +10,4 @@ In this demo we use the login model to store the email & password, then we use V
 iOS 10.0 or Higher  <br/>
 Swift 4.2 or Higher
 
-# Author
 
-[Manish Ahire](www.manishahire.com)
